@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fonihara.github.io/sitemap/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/xsD/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/rJO/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/FsU/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/PCp/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/WNc/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/QFH/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/jER/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/qrd/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/xQc/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/IJf/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/dOj/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/HgB/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/BuW/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/aNp/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/Tpw/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/FBf/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/trC/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/HOT/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/FTS/sitemap_index.fonihara
+Sitemap: https://fonihara.github.io/ZQG/sitemap_index.fonihara
